@@ -1,4 +1,5 @@
 # CloudProject
+Project by Jacob Diecidue (Project Option 2)
 
 ## Project Setup:
 Located in this repository are 2 files (WordCount2.jar and Engine.java), a folder called Jar Dependencies, a folder called Screenshots, a folder called 1, and a DockerFile.
@@ -69,3 +70,21 @@ Next, you are going to need to create a new folder with your newly exported JAR 
 Save this Dockerfile, navigate in console to inside this folder, and go to the next step.
 
 ## Step 6 - RUNNING THE APPLICATION (DOCKER)
+In console/terminal, you should be inside the folder containing your edited Dockerfile and Engine.jar.
+
+First, set up XQuartz or X11 in order to see the gui - https://cuneyt.aliustaoglu.biz/en/running-gui-applications-in-docker-on-windows-linux-mac-hosts/
+
+Next, run the command: 
+
+docker build -t ccproject/engine:1 .
+
+This command above built the image. The next step is to run this image. To run, type this command: 
+
+docker run --rm -e DISPLAY=192.168.1.24:0 -e GOOGLE_APPLICATION_CREDENTIALS="/mnt/mydata/cool-ship-305200-926cc1329eb1.json" -v /Users/jacobdiecidue/1:/mnt/mydata ccproject/engine:1
+
+*YOU NEED TO MAKE CHANGES TO THE ABOVE COMMAND... CHANGE THE DISPLAY TO YOUR LOCAL IP ADDRESS xxx.xxx.x.xx:0... CHANGE cool-ship-305200-926cc1329eb1 TO THE NAME OF YOUR CREDENTIALS... CHANGE /Users/jacobdiecidue/1 TO WHERE YOU MOVED THE 1 FOLDER TOO*
+
+You should now have the running gui :)
+
+## EXTRA CREDIT
+In addition to the above, I would like to note that I completed the extra credit for the project, as all results are displayed in a JTable in the gui
