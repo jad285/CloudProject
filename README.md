@@ -7,7 +7,7 @@ EXTRA CREDIT COMPLETED - NOTE AT BOTTOM OF README
 *NOTE: THE DEMO OF THE RUNNING APPLICATION STARTS AT TIMESTAMP 19:55 OF THE VIDEO*
 
 ## Project Setup:
-Located in this repository are 3 files (WordCount2.jar, Engine.java, and Dockerfile), a folder called Jar Dependencies, a folder called Screenshots, and a folder called 1.
+Located in this repository are 4 files (WordCount2.jar, Engine.java, Dockerfile, and video-link.txt), a folder called Jar Dependencies, a folder called Screenshots, and a folder called 1.
 
 WordCount2.jar - Inverse Indexing Application for Cluster 
 
