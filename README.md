@@ -1,5 +1,6 @@
 # CloudProject
 Project by Jacob Diecidue (Project Option 2)
+EXTRA CREDIT COMPLETED - NOTE AT BOTTOM OF README
 
 ## Project Setup:
 Located in this repository are 2 files (WordCount2.jar and Engine.java), a folder called Jar Dependencies, a folder called Screenshots, a folder called 1, and a DockerFile.
