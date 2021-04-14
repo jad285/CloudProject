@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cool-ship-305200",
+  "private_key_id": "926cc1329eb106d160ead2752b93574061dde247",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCliz3lJ4BFZNUP\nMVCwxbTGniVSa4Dvz0HAzaYWstXNlyJLTRfoYdqWeNIZtimHpysVP3OMaeW9QClm\nG2Ymac4znDRby2pbooSYhtKvqt8mbSBT5vfwG7to2v1bXOkHwYdoXVv3MEi/4uLG\nJdpHrNFVuviF1M6ZvydQv4mokchCpGc8GA8kVTzRMOtTpNwrImLyP3hoQks6CqVN\nnzLpKlqtCRMp9MVLwznGT5o2+2Z4be0mMAV5Eh4/+WpwXdfjjTNDaObSg88M12ep\nBYL0liLnOmcEOh43B7sf70tYcxYlxuos/tLRIAsQLWdZFB2a4YHPEmVUINL44h2G\ncjSkhO3pAgMBAAECggEACKHATjbXUib+Eg76+2CvuqyL2yaWYErBDbXba3MTQWdY\nRy9jp/8UOATgRa1xMGzXywGWO5PZAht6nSOgGbAqK5hBRakPaGxKuC5NhZHmFVma\n1i0kr/0uMjs6+zzWvMwLTLaTgUnf/TtuIjFelp6tAqifZVERncQxH12BZswFMm5N\nGP3dTKkdXmjjChOafiIS9Ya/Z7gAoTREijT9mAyGHIcf1C6LxLm//TCB0ESz/4C0\nVGUs4aeCsvoZM4mkIyrjRn+sscTbHMszMoAykr7/fYs52wVc+mhOXGb+WKz7wTiA\nTzahYquo/T1jW7/2j1RELXAN/vcHDAU5RwVqmpkrZQKBgQDeEijg20h9lb/A0obL\nj4XNlJAomojZOwf/QmCfUoDzCCTdQ7t4TJzyg/CZy7buGFUL1W5lNBRPSniSgvYu\nlE7jSkg/Vp5bjMAXRs3VKKZZD9wf8DLT8GaoLHwfZ5F+3AgU+RPH0IeBDYdHUmW3\n8P67sid4Dnj0mTt98vZ3gda/FQKBgQC+1iVSZFzFj4OPrbMGuF+nGCYrAS20WsAR\nt00Mwk8fFgNBIdiXKPM+7fsQ6ruB5Ix8LI3DyqCgWDyG+PjjSeKaaKQOxqNUZlp5\noKXCcI4QaDxeK7QiuECjubiF/mDk09lZon7qd5MdVhf35jgo2VaSXpmTPiAHpc5q\n99W9GM8IhQKBgQCm7h+sZynmvVqXJ6oL+qcqEjMLUp7sLGOmjc7z9KDaD5UmfnO9\nyllwM534/hlUgRXs/1Ms4CkkMWbRO4CzIujqEjyc4A/J4dPDq4WuZhAlgraFi5mp\nl1yTrlzfforwQZYRreogmbBCYlj+VAICczYJAbKJnNdvhoAh/TEoRIGYwQKBgGnV\n5djt5C2EzBfQ42qkshe/YtuSycAuXDr3B3o+ARdiY+epV69tfIm3/feB1v/QusDb\nDLw7Eh4bEWZhidaz0UKFKgcvzsEuCptNpuBQ/9jFlkU7w6lFukOS6m0ViLMfcnkt\nj2mFa0dnyd8oBJlS/5opcM6iM61KHVJhpF489gTpAoGBAJO1hRZMkr5SWgVlmYfE\nHBmZVX8b8qF3G3D17miIXNMMN62jloqn3MZ6lv3MpuUWN/405Q3wS20aTSTkoApL\nsBw3NrNV5qn23RgStgnkIkPLqHTlQHGt7pKgJQCDJXMdMB2g2OC/HQ5N3kDnAUBM\nJo6cW2Ji0/7bN7aPzi07t+3g\n-----END PRIVATE KEY-----\n",
+  "client_email": "jake-626@cool-ship-305200.iam.gserviceaccount.com",
+  "client_id": "108755852382806353733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jake-626%40cool-ship-305200.iam.gserviceaccount.com"
+}
