@@ -3,7 +3,7 @@ Project by Jacob Diecidue (Project Option 2)
 EXTRA CREDIT COMPLETED - NOTE AT BOTTOM OF README
 
 ## Project Setup:
-Located in this repository are 2 files (WordCount2.jar and Engine.java), a folder called Jar Dependencies, a folder called Screenshots, a folder called 1, and a DockerFile.
+Located in this repository are 3 files (WordCount2.jar, Engine.java, and Dockerfile), a folder called Jar Dependencies, a folder called Screenshots, and a folder called 1.
 
 WordCount2.jar - Inverse Indexing Application for Cluster 
 
